@@ -1,6 +1,6 @@
 # Sistema de Login PHP
 
----
+
 
 ## 📌 Sobre
 Sistema básico de cadastro e login em PHP com:
