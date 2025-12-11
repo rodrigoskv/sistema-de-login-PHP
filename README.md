@@ -1,8 +1,5 @@
 # Sistema de Login PHP
 
-**Aluno:** Rodrigo Miguel Teles dos Santos  
-**Turma:** 5ª fase - São Miguel do Oeste  
-
 ---
 
 ## 📌 Sobre
